@@ -1,0 +1,19 @@
+programming language shikte gele 4,5 ta jinish must lagbe.
+
+1/ variable
+2/ condition
+3/ loop
+4/ array and Object
+5/ Function
+
+
+advance topic:
+
+1. Destructure
+2. Call back
+3. Promise
+4. Aancn awiat
+5. Scope
+6. Even loop
+7. This 
+8. Corsion
